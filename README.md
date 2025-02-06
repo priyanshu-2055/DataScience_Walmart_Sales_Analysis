@@ -49,7 +49,7 @@ Text-based product search using TF-IDF vectorization
 
 Similarity-based product discovery using cosine similarity
 
-Technologies Used
+## Technologies Used
 
 Python
 
